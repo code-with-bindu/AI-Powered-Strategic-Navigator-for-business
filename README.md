@@ -3,7 +3,7 @@
 
 
 1. Clone the repository: 
-git clone https://github.com/bharathkcs/AI-Powered-Strategic-Navigator-for-Business  
+git clone https://github.com/code-with-bindu/AI-Powered-Strategic-Navigator-for-Business  
 cd AI-Powered-Strategic-Navigator-for-Business
 
 2. Install dependencies: pip install -r requirements.txt
