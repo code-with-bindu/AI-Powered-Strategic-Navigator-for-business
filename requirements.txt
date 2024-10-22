@@ -1,5 +1,6 @@
 streamlit
 openai
+
 sentence-transformers
 pinecone-client
 pandas
@@ -10,3 +11,4 @@ python-dotenv
 scikit-learn
 yfinance
 nltk
+
