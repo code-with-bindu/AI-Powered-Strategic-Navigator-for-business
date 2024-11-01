@@ -1,7 +1,6 @@
 # AI-Powered-Strategic-Navigator-for-Business
  AI-powered decision-making platform that integrates Large Language Models (LLMs) with Retrieval-Augmented Generation (RAG) to provide real-time insights for businesses. This platform will enable enterprises to make faster, data-driven decisions by combining internal data with external market trends.
 
-
 1. Clone the repository: 
 git clone https://github.com/code-with-bindu/AI-Powered-Strategic-Navigator-for-Business  
 cd AI-Powered-Strategic-Navigator-for-Business
